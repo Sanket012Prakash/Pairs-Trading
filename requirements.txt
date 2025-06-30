@@ -1,0 +1,2 @@
+!pip install numpy pandas matplotlib seaborn statsmodels scikit-learn yfinance
+!pip install --upgrade yfinance
